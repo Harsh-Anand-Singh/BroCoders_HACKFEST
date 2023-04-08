@@ -1,0 +1,20 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1592659762303-90081d34b277?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1973&q=80");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 60px;
+
+}
+
+#textabout {
+    font-size: 20px;
+    text-align: center;
+}
