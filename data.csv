@@ -1,101 +1,101 @@
 Semester,Department,Preference 1,Preference 2,Preference 3,Preference 4,Preference 5,Course
-5,Civil,Subject 10,Subject 17,Subject 12,Subject 11,Subject 2,Course 6
-2,Mining,Subject 15,Subject 4,Subject 11,Subject 3,Subject 13,Course 10
-6,Civil,Subject 14,Subject 7,Subject 3,Subject 15,Subject 19,Course 6
-1,Mechanical,Subject 19,Subject 12,Subject 8,Subject 3,Subject 2,Course 4
-2,Mechanical,Subject 12,Subject 14,Subject 8,Subject 5,Subject 17,Course 4
-5,Civil,Subject 4,Subject 13,Subject 7,Subject 17,Subject 12,Course 5
-7,Mechanical,Subject 9,Subject 7,Subject 17,Subject 6,Subject 10,Course 4
-6,Computer Science,Subject 3,Subject 15,Subject 16,Subject 11,Subject 9,Course 7
-6,Computer Science,Subject 5,Subject 18,Subject 15,Subject 14,Subject 6,Course 8
-1,Electrical,Subject 13,Subject 12,Subject 15,Subject 2,Subject 17,Course 1
-3,Civil,Subject 19,Subject 14,Subject 17,Subject 10,Subject 18,Course 5
-1,Civil,Subject 18,Subject 12,Subject 6,Subject 3,Subject 13,Course 6
-5,Mining,Subject 3,Subject 19,Subject 16,Subject 7,Subject 6,Course 10
-4,Mechanical,Subject 15,Subject 7,Subject 9,Subject 12,Subject 10,Course 4
-8,Mechanical,Subject 9,Subject 16,Subject 3,Subject 15,Subject 6,Course 3
-2,Mechanical,Subject 8,Subject 6,Subject 20,Subject 2,Subject 5,Course 3
-8,Civil,Subject 5,Subject 11,Subject 9,Subject 10,Subject 8,Course 6
-7,Mining,Subject 4,Subject 5,Subject 10,Subject 13,Subject 15,Course 9
-5,Civil,Subject 1,Subject 19,Subject 17,Subject 7,Subject 18,Course 6
-8,Mechanical,Subject 2,Subject 11,Subject 8,Subject 17,Subject 5,Course 3
-3,Computer Science,Subject 9,Subject 2,Subject 20,Subject 13,Subject 7,Course 8
-5,Mining,Subject 15,Subject 16,Subject 19,Subject 1,Subject 13,Course 9
-3,Civil,Subject 3,Subject 17,Subject 13,Subject 20,Subject 11,Course 5
-6,Mechanical,Subject 10,Subject 8,Subject 19,Subject 18,Subject 6,Course 4
-5,Mining,Subject 16,Subject 7,Subject 1,Subject 2,Subject 20,Course 9
-1,Computer Science,Subject 7,Subject 5,Subject 17,Subject 8,Subject 10,Course 8
-1,Computer Science,Subject 15,Subject 4,Subject 20,Subject 13,Subject 19,Course 7
-3,Mechanical,Subject 3,Subject 14,Subject 10,Subject 13,Subject 16,Course 4
-8,Civil,Subject 15,Subject 3,Subject 8,Subject 16,Subject 1,Course 6
-4,Civil,Subject 18,Subject 8,Subject 5,Subject 10,Subject 9,Course 6
-2,Mechanical,Subject 15,Subject 17,Subject 11,Subject 18,Subject 5,Course 3
-4,Mechanical,Subject 1,Subject 9,Subject 13,Subject 11,Subject 2,Course 4
-4,Mining,Subject 17,Subject 19,Subject 5,Subject 14,Subject 7,Course 10
-3,Computer Science,Subject 8,Subject 7,Subject 19,Subject 6,Subject 9,Course 8
-2,Civil,Subject 13,Subject 10,Subject 7,Subject 1,Subject 19,Course 6
-5,Electrical,Subject 15,Subject 17,Subject 11,Subject 6,Subject 7,Course 2
-2,Mining,Subject 16,Subject 6,Subject 10,Subject 2,Subject 5,Course 10
-4,Electrical,Subject 19,Subject 7,Subject 6,Subject 5,Subject 18,Course 2
-4,Computer Science,Subject 13,Subject 19,Subject 9,Subject 12,Subject 7,Course 8
-6,Mining,Subject 18,Subject 11,Subject 14,Subject 1,Subject 8,Course 10
-5,Mining,Subject 8,Subject 15,Subject 12,Subject 10,Subject 5,Course 10
-3,Civil,Subject 3,Subject 7,Subject 13,Subject 1,Subject 17,Course 6
-1,Computer Science,Subject 17,Subject 16,Subject 1,Subject 4,Subject 10,Course 8
-4,Civil,Subject 19,Subject 3,Subject 15,Subject 20,Subject 5,Course 5
-7,Computer Science,Subject 18,Subject 16,Subject 2,Subject 13,Subject 7,Course 8
-4,Mechanical,Subject 14,Subject 19,Subject 20,Subject 12,Subject 9,Course 4
-2,Mechanical,Subject 16,Subject 19,Subject 1,Subject 10,Subject 15,Course 3
-2,Mining,Subject 11,Subject 12,Subject 1,Subject 15,Subject 18,Course 9
-1,Electrical,Subject 16,Subject 2,Subject 15,Subject 20,Subject 8,Course 1
-1,Electrical,Subject 2,Subject 7,Subject 14,Subject 4,Subject 10,Course 2
-4,Electrical,Subject 3,Subject 19,Subject 15,Subject 7,Subject 18,Course 2
-3,Mining,Subject 18,Subject 17,Subject 11,Subject 19,Subject 6,Course 9
-1,Mechanical,Subject 20,Subject 10,Subject 16,Subject 1,Subject 3,Course 3
-8,Mining,Subject 17,Subject 1,Subject 16,Subject 6,Subject 14,Course 10
-1,Civil,Subject 13,Subject 8,Subject 4,Subject 11,Subject 19,Course 6
-7,Electrical,Subject 6,Subject 11,Subject 9,Subject 14,Subject 7,Course 2
-5,Computer Science,Subject 1,Subject 7,Subject 10,Subject 3,Subject 15,Course 7
-1,Mechanical,Subject 12,Subject 16,Subject 2,Subject 14,Subject 6,Course 3
-1,Civil,Subject 3,Subject 14,Subject 16,Subject 1,Subject 13,Course 5
-6,Mining,Subject 5,Subject 11,Subject 2,Subject 8,Subject 4,Course 10
-1,Civil,Subject 20,Subject 14,Subject 4,Subject 1,Subject 17,Course 6
-3,Computer Science,Subject 11,Subject 15,Subject 12,Subject 16,Subject 13,Course 8
-5,Computer Science,Subject 2,Subject 7,Subject 9,Subject 13,Subject 3,Course 8
-5,Civil,Subject 17,Subject 10,Subject 9,Subject 19,Subject 7,Course 5
-5,Civil,Subject 8,Subject 20,Subject 7,Subject 16,Subject 3,Course 5
-4,Civil,Subject 5,Subject 1,Subject 8,Subject 7,Subject 16,Course 5
-2,Civil,Subject 19,Subject 7,Subject 20,Subject 3,Subject 10,Course 6
-7,Civil,Subject 4,Subject 13,Subject 17,Subject 5,Subject 19,Course 5
-8,Electrical,Subject 12,Subject 14,Subject 11,Subject 19,Subject 15,Course 1
-5,Electrical,Subject 7,Subject 1,Subject 17,Subject 3,Subject 2,Course 2
-5,Electrical,Subject 20,Subject 5,Subject 14,Subject 8,Subject 15,Course 2
-5,Mining,Subject 18,Subject 10,Subject 12,Subject 8,Subject 5,Course 9
-4,Electrical,Subject 10,Subject 14,Subject 13,Subject 7,Subject 8,Course 2
-5,Electrical,Subject 15,Subject 12,Subject 18,Subject 8,Subject 16,Course 1
-5,Mining,Subject 10,Subject 3,Subject 11,Subject 2,Subject 1,Course 10
-2,Mechanical,Subject 10,Subject 19,Subject 9,Subject 8,Subject 4,Course 4
-1,Electrical,Subject 13,Subject 2,Subject 14,Subject 20,Subject 3,Course 2
-3,Mechanical,Subject 3,Subject 5,Subject 2,Subject 17,Subject 14,Course 3
-1,Civil,Subject 8,Subject 20,Subject 13,Subject 2,Subject 7,Course 5
-4,Mechanical,Subject 19,Subject 9,Subject 14,Subject 18,Subject 11,Course 3
-3,Electrical,Subject 4,Subject 17,Subject 5,Subject 8,Subject 6,Course 1
-3,Electrical,Subject 8,Subject 7,Subject 3,Subject 13,Subject 1,Course 1
-1,Civil,Subject 14,Subject 6,Subject 11,Subject 20,Subject 1,Course 5
-6,Civil,Subject 11,Subject 2,Subject 3,Subject 19,Subject 14,Course 5
-2,Civil,Subject 9,Subject 11,Subject 16,Subject 1,Subject 13,Course 5
-6,Electrical,Subject 5,Subject 13,Subject 18,Subject 7,Subject 12,Course 1
-6,Mining,Subject 2,Subject 16,Subject 8,Subject 5,Subject 6,Course 10
-6,Civil,Subject 7,Subject 18,Subject 1,Subject 4,Subject 5,Course 5
-8,Electrical,Subject 1,Subject 8,Subject 15,Subject 2,Subject 3,Course 2
-5,Mining,Subject 16,Subject 12,Subject 19,Subject 5,Subject 10,Course 9
-5,Computer Science,Subject 7,Subject 16,Subject 9,Subject 12,Subject 14,Course 7
-2,Civil,Subject 14,Subject 8,Subject 17,Subject 9,Subject 3,Course 5
-8,Computer Science,Subject 15,Subject 12,Subject 6,Subject 14,Subject 4,Course 7
-2,Mining,Subject 19,Subject 16,Subject 5,Subject 3,Subject 14,Course 10
-2,Mining,Subject 16,Subject 10,Subject 3,Subject 2,Subject 6,Course 9
-2,Mechanical,Subject 6,Subject 14,Subject 10,Subject 3,Subject 11,Course 3
-3,Computer Science,Subject 12,Subject 19,Subject 20,Subject 13,Subject 15,Course 7
-8,Civil,Subject 15,Subject 9,Subject 5,Subject 13,Subject 10,Course 6
-2,Electrical,Subject 19,Subject 8,Subject 12,Subject 4,Subject 10,Course 1
-7,Civil,Subject 7,Subject 16,Subject 20,Subject 1,Subject 17,Course 6
+1,Mechanical,Subject 5,Subject 16,Subject 1,Subject 15,Subject 9,Course 4
+5,Electrical,Subject 16,Subject 13,Subject 20,Subject 1,Subject 7,Course 2
+8,Mining,Subject 18,Subject 4,Subject 11,Subject 3,Subject 13,Course 9
+7,Civil,Subject 14,Subject 4,Subject 17,Subject 1,Subject 16,Course 6
+1,Mining,Subject 9,Subject 5,Subject 18,Subject 19,Subject 1,Course 10
+6,Civil,Subject 2,Subject 11,Subject 17,Subject 6,Subject 10,Course 6
+3,Computer Science,Subject 8,Subject 13,Subject 2,Subject 7,Subject 18,Course 8
+8,Mechanical,Subject 14,Subject 18,Subject 11,Subject 4,Subject 1,Course 3
+4,Civil,Subject 9,Subject 4,Subject 6,Subject 14,Subject 20,Course 5
+8,Computer Science,Subject 15,Subject 19,Subject 20,Subject 18,Subject 10,Course 7
+4,Civil,Subject 14,Subject 19,Subject 8,Subject 3,Subject 5,Course 6
+7,Computer Science,Subject 6,Subject 20,Subject 2,Subject 4,Subject 9,Course 7
+5,Mechanical,Subject 15,Subject 18,Subject 20,Subject 13,Subject 5,Course 4
+1,Mining,Subject 9,Subject 20,Subject 18,Subject 6,Subject 7,Course 9
+4,Civil,Subject 17,Subject 14,Subject 7,Subject 10,Subject 13,Course 6
+1,Mining,Subject 8,Subject 7,Subject 4,Subject 20,Subject 15,Course 10
+2,Civil,Subject 8,Subject 3,Subject 1,Subject 18,Subject 11,Course 6
+5,Computer Science,Subject 7,Subject 8,Subject 19,Subject 15,Subject 12,Course 8
+5,Electrical,Subject 20,Subject 13,Subject 14,Subject 11,Subject 8,Course 2
+1,Electrical,Subject 9,Subject 19,Subject 16,Subject 6,Subject 7,Course 2
+7,Mechanical,Subject 20,Subject 13,Subject 17,Subject 14,Subject 9,Course 3
+3,Electrical,Subject 19,Subject 13,Subject 5,Subject 1,Subject 4,Course 2
+8,Civil,Subject 20,Subject 12,Subject 5,Subject 4,Subject 14,Course 6
+8,Civil,Subject 14,Subject 1,Subject 17,Subject 10,Subject 13,Course 5
+5,Electrical,Subject 10,Subject 11,Subject 7,Subject 20,Subject 18,Course 2
+6,Mechanical,Subject 3,Subject 6,Subject 12,Subject 14,Subject 4,Course 3
+2,Mechanical,Subject 2,Subject 19,Subject 6,Subject 8,Subject 20,Course 4
+7,Civil,Subject 1,Subject 18,Subject 6,Subject 20,Subject 12,Course 6
+2,Computer Science,Subject 17,Subject 5,Subject 19,Subject 9,Subject 18,Course 7
+4,Computer Science,Subject 20,Subject 10,Subject 9,Subject 17,Subject 5,Course 7
+8,Electrical,Subject 2,Subject 13,Subject 15,Subject 9,Subject 14,Course 1
+3,Computer Science,Subject 3,Subject 11,Subject 12,Subject 13,Subject 18,Course 8
+8,Civil,Subject 14,Subject 15,Subject 7,Subject 6,Subject 5,Course 6
+5,Computer Science,Subject 8,Subject 6,Subject 19,Subject 12,Subject 7,Course 7
+7,Civil,Subject 4,Subject 15,Subject 7,Subject 19,Subject 6,Course 6
+4,Electrical,Subject 1,Subject 5,Subject 8,Subject 3,Subject 10,Course 1
+3,Mechanical,Subject 17,Subject 6,Subject 1,Subject 7,Subject 13,Course 3
+7,Civil,Subject 6,Subject 1,Subject 10,Subject 13,Subject 15,Course 5
+7,Mining,Subject 14,Subject 8,Subject 18,Subject 17,Subject 1,Course 9
+1,Mechanical,Subject 20,Subject 13,Subject 16,Subject 4,Subject 3,Course 4
+3,Civil,Subject 8,Subject 13,Subject 10,Subject 15,Subject 2,Course 6
+4,Civil,Subject 6,Subject 14,Subject 2,Subject 15,Subject 7,Course 6
+7,Mechanical,Subject 19,Subject 1,Subject 3,Subject 9,Subject 16,Course 3
+3,Mining,Subject 3,Subject 8,Subject 15,Subject 12,Subject 18,Course 10
+2,Computer Science,Subject 12,Subject 18,Subject 5,Subject 11,Subject 16,Course 8
+2,Civil,Subject 18,Subject 13,Subject 19,Subject 8,Subject 20,Course 6
+4,Mechanical,Subject 10,Subject 2,Subject 14,Subject 20,Subject 3,Course 4
+7,Mechanical,Subject 3,Subject 15,Subject 7,Subject 20,Subject 16,Course 3
+5,Computer Science,Subject 6,Subject 4,Subject 3,Subject 12,Subject 20,Course 7
+1,Mining,Subject 5,Subject 10,Subject 6,Subject 8,Subject 3,Course 9
+8,Electrical,Subject 17,Subject 7,Subject 9,Subject 12,Subject 2,Course 2
+1,Mechanical,Subject 3,Subject 13,Subject 20,Subject 1,Subject 5,Course 3
+7,Computer Science,Subject 13,Subject 8,Subject 9,Subject 15,Subject 4,Course 7
+1,Mining,Subject 13,Subject 19,Subject 6,Subject 7,Subject 15,Course 9
+7,Mining,Subject 2,Subject 13,Subject 14,Subject 10,Subject 12,Course 9
+3,Mining,Subject 17,Subject 4,Subject 9,Subject 12,Subject 15,Course 10
+2,Computer Science,Subject 4,Subject 6,Subject 13,Subject 19,Subject 12,Course 7
+1,Mechanical,Subject 16,Subject 10,Subject 8,Subject 4,Subject 17,Course 3
+3,Computer Science,Subject 13,Subject 2,Subject 3,Subject 12,Subject 19,Course 7
+3,Mining,Subject 9,Subject 5,Subject 18,Subject 16,Subject 15,Course 9
+3,Electrical,Subject 15,Subject 13,Subject 2,Subject 6,Subject 7,Course 1
+2,Electrical,Subject 3,Subject 13,Subject 6,Subject 5,Subject 15,Course 1
+7,Computer Science,Subject 5,Subject 1,Subject 19,Subject 11,Subject 3,Course 8
+2,Civil,Subject 6,Subject 16,Subject 8,Subject 12,Subject 11,Course 5
+1,Electrical,Subject 13,Subject 1,Subject 19,Subject 11,Subject 3,Course 2
+1,Electrical,Subject 5,Subject 16,Subject 1,Subject 18,Subject 9,Course 1
+3,Civil,Subject 8,Subject 3,Subject 10,Subject 7,Subject 13,Course 5
+8,Electrical,Subject 14,Subject 17,Subject 18,Subject 16,Subject 6,Course 2
+3,Civil,Subject 15,Subject 1,Subject 11,Subject 10,Subject 9,Course 6
+4,Computer Science,Subject 14,Subject 4,Subject 17,Subject 6,Subject 12,Course 8
+3,Mechanical,Subject 17,Subject 15,Subject 18,Subject 9,Subject 19,Course 3
+2,Mechanical,Subject 7,Subject 18,Subject 11,Subject 6,Subject 8,Course 4
+2,Mechanical,Subject 19,Subject 18,Subject 9,Subject 6,Subject 17,Course 3
+3,Computer Science,Subject 12,Subject 4,Subject 5,Subject 17,Subject 10,Course 7
+2,Mining,Subject 8,Subject 10,Subject 9,Subject 20,Subject 12,Course 10
+6,Computer Science,Subject 7,Subject 15,Subject 4,Subject 19,Subject 18,Course 8
+4,Electrical,Subject 12,Subject 8,Subject 20,Subject 7,Subject 15,Course 1
+1,Electrical,Subject 9,Subject 4,Subject 1,Subject 3,Subject 12,Course 2
+6,Computer Science,Subject 15,Subject 10,Subject 7,Subject 17,Subject 18,Course 8
+8,Computer Science,Subject 12,Subject 7,Subject 2,Subject 16,Subject 20,Course 8
+8,Computer Science,Subject 5,Subject 19,Subject 20,Subject 3,Subject 10,Course 8
+5,Mechanical,Subject 13,Subject 2,Subject 15,Subject 8,Subject 10,Course 4
+5,Computer Science,Subject 4,Subject 20,Subject 18,Subject 11,Subject 15,Course 8
+2,Civil,Subject 18,Subject 16,Subject 9,Subject 4,Subject 3,Course 5
+7,Electrical,Subject 7,Subject 9,Subject 2,Subject 17,Subject 16,Course 2
+4,Electrical,Subject 14,Subject 5,Subject 11,Subject 13,Subject 16,Course 1
+7,Computer Science,Subject 3,Subject 16,Subject 20,Subject 7,Subject 18,Course 7
+2,Electrical,Subject 17,Subject 13,Subject 18,Subject 6,Subject 10,Course 1
+4,Mechanical,Subject 8,Subject 7,Subject 6,Subject 3,Subject 19,Course 3
+4,Mining,Subject 5,Subject 8,Subject 1,Subject 13,Subject 7,Course 10
+7,Mechanical,Subject 14,Subject 18,Subject 15,Subject 4,Subject 10,Course 3
+6,Electrical,Subject 20,Subject 11,Subject 14,Subject 6,Subject 12,Course 1
+2,Mining,Subject 19,Subject 16,Subject 8,Subject 2,Subject 6,Course 10
+3,Computer Science,Subject 13,Subject 5,Subject 7,Subject 17,Subject 16,Course 7
+6,Civil,Subject 3,Subject 16,Subject 13,Subject 15,Subject 9,Course 6
+1,Mechanical,Subject 1,Subject 12,Subject 18,Subject 9,Subject 11,Course 4
+2,Mechanical,Subject 12,Subject 13,Subject 10,Subject 2,Subject 20,Course 3
+5,Civil,Subject 5,Subject 18,Subject 19,Subject 1,Subject 20,Course 6
+6,Mechanical,Subject 20,Subject 19,Subject 16,Subject 18,Subject 10,Course 4
+2,Mining,Subject 10,Subject 2,Subject 1,Subject 18,Subject 3,Course 10

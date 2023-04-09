@@ -1,0 +1,49 @@
+{
+    "RTC" : {
+         "ECC201" : "1",
+         "ECC202" : "2",
+         "ME201"  : "3",
+         "ME202"  :  "4",
+         "CE201" : "5",
+         "CE202" : "6",
+         "MNC101" : "7",
+         "MNC102" : "8",
+         "CSE201" : "9",
+         "CSE202" : "10",
+         "CY201" : "11",
+         "CY202" : "12",
+         "PH101" : "13",
+         "PH102" : "14",
+         "EE201" : "15",
+         "Electrical Engineering" : "1",
+         "Mechanical Engineering" : "2",
+         "Electronics and Communication Engineering" : "3",
+         "Computer Science and Engineering" : "4",
+         "Environmental Engineering" : "5",
+         "Mining Engineering" : "6",
+         "Civil Engineering" : "7",
+         "Chemical Engineering" : "8",
+         "Engineering Physics" : "9",
+         "Mining Machinery Engineering" : "10"
+
+    },
+    "CTR" : {
+       "1": "ECC201",
+       "2" : "ECC202",
+       "3" : "ME201",
+       "4"  :"ME202",
+       "5" :  "CE201",
+       "6" : "CE202",
+       "7" : "MNC101",
+       "8" :  "MNC102" ,
+       "9" : "CSE201" ,
+       "10" : "CSE202" ,
+       "11" :  "CY201",
+       "12" : "CY202" ,
+       "13" : "PH101" ,
+        "14": "PH102" ,
+        "15":"EE201"
+     
+
+    }
+}

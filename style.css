@@ -8,6 +8,7 @@ body {
 
 #button1 {
     margin-bottom: 10px;
+    margin-top: 10px;
     color: rgb(97, 40, 228);
 }
 
@@ -37,4 +38,8 @@ img {
 
 .nav-link {
     font-size: 20px;
+}
+
+textarea{
+    border: 3px goldenrod solid;
 }
